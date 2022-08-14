@@ -1,6 +1,7 @@
 main:
   - title: "Teasers"
     url: /teasers/
+  - title: "Blog"
+     url: /posts/
   - title: "About"
     url: /about/
- 
